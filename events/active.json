@@ -1,0 +1,54 @@
+{
+  "slug": "welcome-caterers-and-events-palakkad",
+  "name": "Welcome Caterers & Events",
+  "shortName": "Welcome",
+  "descriptor": "Catering & Events",
+  "address": "Shop no 3, municipal complex, Robinson Rd, Santhi Nagar, Sultanpet, Palakkad, Keralam 678001",
+  "area": "Sultanpet",
+  "city": "Palakkad",
+  "district": "Palakkad",
+  "region": "Kerala",
+  "postalCode": "678001",
+  "geo": {
+    "lat": 10.769159799999999,
+    "lng": 76.6570357
+  },
+  "mapsLink": "https://maps.google.com/?cid=15699281358445559660",
+  "phone": "+91 94959 89523",
+  "whatsapp": "919495989523",
+  "hours": "Open 9:30 am – 8 pm · closed Sun",
+  "opens": "09:30",
+  "closes": "20:00",
+  "rating": 4.4,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "name": "rubeen farhath",
+      "rating": 5,
+      "quote": "We had availed them for my wedding. Honestly speaking they literally delivered what they promised us in terms of quality, hygiene , variety etc . Further the arrangements and support from the owner and staffs was overwhelming."
+    },
+    {
+      "name": "Abid Hussain",
+      "rating": 5,
+      "quote": "Good food malabar Mutton Biriyani so tasty,chicken Roast tasty.one of the best food I had very friendly management and staff I personally recommend you will tray"
+    },
+    {
+      "name": "vibitha k menon",
+      "rating": 5,
+      "quote": "Their service was superb👌🏻and they are reliable . I highly recommend them to anyone."
+    },
+    {
+      "name": "NIDHISH R",
+      "rating": 5,
+      "quote": "One of the best catering team in palakkad. 😍"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://welcome-caterers-and-events-palakka.vercel.app"
+}
